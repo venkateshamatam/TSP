@@ -1,7 +1,7 @@
 # The Traveling salesman problem
 
 ## Introduction
-The project aims to explore heuristic algorithms for the Traveling Salesman Problem (TSP), including 2-opt, 3-opt, ant colony, and simulated annealing algorithms. The report compares their performance in terms of solution quality and execution time.
+The project aims to explore heuristic algorithms for the Traveling Salesman Problem (TSP), including 2-opt, 3-opt, ant colony, and simulated annealing algorithms. It compares their performance in terms of solution quality and execution time.
 
 ## Approach
 1. **Graph Representation:** Represent TSP as an undirected graph.
